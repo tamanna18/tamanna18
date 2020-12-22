@@ -16,3 +16,20 @@ This is the place where I opensource stuff and break things :rofl:
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/itsmetam1/) 
 
 
+<!--
+**tamanna18/tamanna18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna18)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamanna18" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna18" />
+</a>
+
+
+Profile Visits : [![HitCount](http://hits.dwyl.com/tamanna18/tamanna18.svg)](http://hits.dwyl.com/tamanna18/tamanna18)
+
+
+-->
