@@ -1,7 +1,5 @@
 ### Hi there 👋 <a href="https://tamanna.carrd.co/">
 
-<!--
-**tamanna18/tamanna18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 This is the place where I opensource stuff and break things :rofl:
 
