@@ -4,7 +4,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning ERP
+- 🌱 I’m currently learning ERP and GoLang
 - 😄 I'm open to opportunities in the field of Software Engineering, Machine Learning, AI, NLP and Computer Vision
 - 💬 Ask me about anything related to Javascript/Python/React/Flask/DASH
 - 😄 Pronouns: She/her
@@ -23,7 +23,7 @@ This is the place where I opensource stuff and break things :rofl:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
- 
+ <img src="https://github.com/tamanna18/tamanna18/blob/main/Rlogo.png" width="3.5%"/>
 
 **Frameworks/Libraries:**
 
@@ -35,6 +35,7 @@ This is the place where I opensource stuff and break things :rofl:
 <code><img height="30" src="https://camo.githubusercontent.com/209bdea972b9b6ef90220c59ecbe66d35ffefa8a/68747470733a2f2f63646e2e7261776769742e636f6d2f746b6834342f656d6f74696f6e2f6d61737465722f656d6f74696f6e2e706e67"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+ <img src="https://github.com/tamanna18/tamanna18/blob/main/1_iDQvKoz7gGHc6YXqvqWWZQ.png" width="3.5%"/>
 
 
 **Tools:**
