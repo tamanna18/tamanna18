@@ -1,4 +1,4 @@
-### Hi there, I'm [Tamanna!]  👋  
+### Hi there, I'm Tamanna!  👋  
 
 
 This is the place where I opensource stuff and break things :rofl:
