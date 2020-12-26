@@ -33,20 +33,6 @@ This is the place where I opensource stuff and break things :rofl:
 </a>
 
 
-
-
-
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamanna18" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna18" />
-</a>
-
-
 Profile Visits : [![HitCount](http://hits.dwyl.com/tamanna18/tamanna18.svg)](http://hits.dwyl.com/tamanna18/tamanna18)
 
 
