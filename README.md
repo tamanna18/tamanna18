@@ -27,9 +27,7 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://github.com/tamanna18/github-readme-stats?organization=tamanna18&organization=tamanna18">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamanna18&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-<a href="https://github.com/tamanna18/anuraghazra.github.io?organization=tamanna18&organization=tamanna18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamanna18&repo=tamanna18.github.io&theme=material-palenight" />
-</a>
+
 
 
 Profile Visits : [![HitCount](http://hits.dwyl.com/tamanna18/tamanna18.svg)](http://hits.dwyl.com/tamanna18/tamanna18)
