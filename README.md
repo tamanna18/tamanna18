@@ -52,6 +52,9 @@ This is the place where I opensource stuff and break things :rofl:
 
    
 
+<div >
+    <img src="https://github-readme-stats.vercel.app/api?username=tamanna18&show_icons=true&icon_color=EA2E6E&title_color=EA2E6E&line_height=27" alt="tamanna18 Readme Stats"/>
+</div>
 
 
 <a href="https://github.com/tamanna18/github-readme-stats?organization=tamanna18&organization=tamanna18">
