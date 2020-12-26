@@ -23,7 +23,7 @@ This is the place where I opensource stuff and break things :rofl:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+<code><img height="20" src="https://github.com/jupyter/notebook/blob/master/docs/resources/ipynb.iconset/icon_256x256.png"></code> 
 
 
 <a href="https://github.com/tamanna18/github-readme-stats?organization=tamanna18&organization=tamanna18">
