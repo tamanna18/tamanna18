@@ -23,9 +23,10 @@ This is the place where I opensource stuff and break things :rofl:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<code><img height="20" src="https://en.wikipedia.org/wiki/Project_Jupyter#/media/File:Jupyter_logo.svg"></code>
-<code><img height="20" src="https://en.wikipedia.org/wiki/Visual_Studio_Code#/media/File:Visual_Studio_Code_1.35_icon.svg"></code>
-<code><img height="20" src="https://de.wikipedia.org/wiki/PyCharm#/media/Datei:PyCharm_Logo.svg"></code>
+
+<img src="https://en.wikipedia.org/wiki/Project_Jupyter#/media/File:Jupyter_logo.svg" width="3.5%"/>
+<img src="https://en.wikipedia.org/wiki/Visual_Studio_Code#/media/File:Visual_Studio_Code_1.35_icon.svg" width="3.5%"/>
+<img src="https://de.wikipedia.org/wiki/PyCharm#/media/Datei:PyCharm_Logo.svg" width="3.5%"/>
 
 
 
