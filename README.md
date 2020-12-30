@@ -55,13 +55,16 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://github.com/tamanna18/github-readme-stats?organization=tamanna18&organization=tamanna18">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamanna18&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Tamanna's github stats" />
 </a>
+
 <a href="https://github.com/tamanna18/github-readme-stats?organization=tamanna18&organization=tamanna18">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna18&layout=compact&theme=material-palenight" />
 </a>
 
+
 <a href="https://github.com/tamanna18/github-readme-stats?organization=tamanna18&organization=tamanna18">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamanna18&repo=github-readme-stats&theme=material-palenight" />
 </a>    
+
 
 
 
