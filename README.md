@@ -4,9 +4,8 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning ERP and GoLang
-- 😄 I'm open to opportunities in the field of Software Engineering, Machine Learning, AI, NLP and Computer Vision
-- 💬 Ask me about anything related to Javascript/Python/React/Flask/DASH
+- 🌱 I’m currently learning ERP
+- 💬 I'm open to opportunities in the field of Software Engineering, Machine Learning, AI, NLP and Computer Vision
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I :heart: :dog:s
 - 📫 How to reach me: 
@@ -15,7 +14,7 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="mailto:tam.tamanna18@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
-## I love working in
+## I work on
 
 **Languages :**
 
@@ -28,12 +27,7 @@ This is the place where I opensource stuff and break things :rofl:
 **Frameworks/Libraries:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://github.com/chakra-ui/chakra-ui/blob/master/logo/logomark-colored%402x.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://repository-images.githubusercontent.com/94380465/25fe3280-b902-11e9-8803-0d193cbe5827"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
-<code><img height="30" src="https://camo.githubusercontent.com/209bdea972b9b6ef90220c59ecbe66d35ffefa8a/68747470733a2f2f63646e2e7261776769742e636f6d2f746b6834342f656d6f74696f6e2f6d61737465722f656d6f74696f6e2e706e67"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
  <img src="https://github.com/tamanna18/tamanna18/blob/main/1_iDQvKoz7gGHc6YXqvqWWZQ.png" width="3.5%"/>
 
@@ -42,7 +36,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -51,7 +44,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 
-
+```
 <a href="https://github.com/tamanna18/github-readme-stats?organization=tamanna18&organization=tamanna18">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamanna18&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Tamanna's github stats" />
 </a>
@@ -70,5 +63,5 @@ This is the place where I opensource stuff and break things :rofl:
 
 Profile Visits : [![HitCount](http://hits.dwyl.com/tamanna18/tamanna18.svg)](http://hits.dwyl.com/tamanna18/tamanna18)
 
-
+```
 
