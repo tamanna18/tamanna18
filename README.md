@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ Fun fact: I :heart: :dog:s
 - 📫 How to reach me: 
 
-[<img src="https://hashtagchefin.at/wp-content/uploads/2018/02/xing-logo-3bd7a34cb3daaa40-256x256.png" width="3.5%"/>](https://www.xing.com/profile/Tamanna_tamanna/cv)
+
 <a href="mailto:tam.tamanna18@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
