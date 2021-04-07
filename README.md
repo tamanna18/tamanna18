@@ -8,10 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 I'm open to opportunities in the field of Software Engineering, Machine Learning, AI, NLP and Computer Vision
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I :heart: :dog:s
-- 📫 How to reach me: 
-
-
-<a href="mailto:tam.tamanna18@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+- 📫 How to reach me:  <a href="mailto:tam.tamanna18@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
 ## I work on
