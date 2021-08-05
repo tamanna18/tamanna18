@@ -37,5 +37,10 @@ This is the place where I opensource stuff and break things :rofl:
 <img src="https://github.com/tamanna18/tamanna18/blob/main/colab_favicon_256px.png" width="3.5%"/>
 
 
-
+**Database:**
+##### SQL(Structured Query Language) & NoSQL(Not Only SQL database)
+<code><img height="30" src="https://cdn.guru99.com/images/1/092119_0810_13BESTFreeD1.png"></code>
+<code><img height="30" src="https://cdn.guru99.com/images/1/092119_0810_13BESTFreeD3.png"></code>
+<code><img height="30" src="https://cdn.guru99.com/images/1/092119_0810_13BESTFreeD7.png"></code>
+<code><img height="30" src="https://cdn.guru99.com/images/1/092119_0810_13BESTFreeD10.png"></code>
 
