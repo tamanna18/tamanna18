@@ -1,4 +1,6 @@
-## Hi there, I'm Tamanna!  👋  
+<h1 align="center">Hi 👋, I'm Tamanna</h1>
+<h3 align="center">"Data that is loved tends to survive"</h3>
+ 
 
 
 This is the place where I opensource stuff and break things :rofl:
@@ -7,7 +9,11 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 I'm open to opportunities in the field of Data Science and Engineering, AI, Machine Learning, NLP, Deep Learning and Computer Vision
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I :heart: :dog:s
-- 📫 How to reach me:  <a href="mailto:tam.tamanna18@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+- 📫 How to reach me: 
+<a href="mailto:tam.tamanna18@gmail.com" target="blank"><img align="center" src="http://clipart-library.com/new_gallery/107-1073376_email-icon-apple-watch-mail-icon-png.png" alt="tam.tamanna18" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tamanna-724345189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tamanna-724345189" height="30" width="40" /></a>
+
+
 
 
 ## I work on
