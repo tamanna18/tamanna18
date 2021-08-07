@@ -20,8 +20,8 @@ This is the place where I opensource stuff and break things :rofl:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"></code>
  <img src="https://github.com/tamanna18/tamanna18/blob/main/Rlogo.png" width="3.5%"/>
- 
  
 
 ### Frameworks / Libraries :
@@ -44,11 +44,12 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### Tools / Version Control :
 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1024px-Jupyter_logo.svg.png"></code>
+<code><img height="30" src="https://algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<img src="https://github.com/tamanna18/tamanna18/blob/main/1_XEzukXOEUudcXkyrouu3vw.jpeg" width="3.5%"/>
-<img src="https://github.com/tamanna18/tamanna18/blob/main/colab_favicon_256px.png" width="3.5%"/>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2880px-GitLab_logo.svg.png"></code>
 
 
 
