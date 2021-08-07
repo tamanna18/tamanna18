@@ -17,10 +17,10 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 
-## I work on
+# I work on
 
 
-### Languages :
+## Languages :
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2880px-Python_logo_and_wordmark.svg.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
@@ -31,7 +31,7 @@ This is the place where I opensource stuff and break things :rofl:
  <img src="https://github.com/tamanna18/tamanna18/blob/main/Rlogo.png" width="3.5%"/>
  
 
-### Frameworks / Libraries :
+## Frameworks / Libraries :
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -49,7 +49,7 @@ This is the place where I opensource stuff and break things :rofl:
 <code><img height="30" src=""></code>
 
 
-### Tools / Version Control :
+## Tools / Version Control :
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1024px-Jupyter_logo.svg.png"></code>
@@ -60,7 +60,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 
-### Database :
+## Database :
 
 **SQL(Structured Query Language) & NoSQL(Not Only SQL database)**
 
