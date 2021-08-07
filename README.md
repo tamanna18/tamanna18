@@ -29,10 +29,16 @@ This is the place where I opensource stuff and break things :rofl:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
  <img src="https://github.com/tamanna18/tamanna18/blob/main/1_iDQvKoz7gGHc6YXqvqWWZQ.png" width="3.5%"/>
+<code><img height="30" src="https://miro.medium.com/max/1400/0*Iol-C47mo4deMFnE"></code>
+<code><img height="30" src="https://i2.wp.com/www.marktechpost.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-22-at-3.25.20-PM.png?fit=1954%2C922&ssl=1"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="30" src=""></code>
+<code><img height="30" src=""></code>
 
 
 
-**Tools:**
+
+**Tools / Version Control:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
