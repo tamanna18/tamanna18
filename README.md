@@ -32,10 +32,13 @@ This is the place where I opensource stuff and break things :rofl:
 <code><img height="30" src="https://miro.medium.com/max/1400/0*Iol-C47mo4deMFnE"></code>
 <code><img height="30" src="https://i2.wp.com/www.marktechpost.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-22-at-3.25.20-PM.png?fit=1954%2C922&ssl=1"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2880px-PyTorch_logo_black.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Theano_logo.svg/2880px-Theano_logo.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/600px-Pandas_logo.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Matplotlib_logo.svg/2880px-Matplotlib_logo.svg.png"></code>
 <code><img height="30" src=""></code>
 <code><img height="30" src=""></code>
-
-
 
 
 ### Tools / Version Control :
