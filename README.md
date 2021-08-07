@@ -12,6 +12,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: 
 <a href="mailto:tam.tamanna18@gmail.com" target="blank"><img align="center" src="http://clipart-library.com/new_gallery/107-1073376_email-icon-apple-watch-mail-icon-png.png" alt="tam.tamanna18" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tamanna-724345189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tamanna-724345189" height="30" width="40" /></a>
+<a href="https://twitter.com/TamTamanna18" target="blank"><img align="center" src="https://www.seekpng.com/png/full/16-167581_png-file-black-and-white-twitter-icon-png.png" alt="TamTamanna18" height="30" width="40" /></a>
 
 
 
