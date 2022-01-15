@@ -71,3 +71,8 @@ This is the place where I opensource stuff and break things :rofl:
 <code><img height="30" src="https://cdn.guru99.com/images/1/092119_0810_13BESTFreeD7.png"></code>
 <code><img height="30" src="https://cdn.guru99.com/images/1/092119_0810_13BESTFreeD10.png"></code>
 
+<br/>
+
+### <summary><b>⚡⚡ Github Stats ⚡⚡</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamanna18&hide_border=true&count_private=true&show_icons=true&theme=white" alt="tamanna18" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamanna18&show_icons=true&locale=en&layout=compact&hide_border=true&theme=white" alt="tamanna18" align = "center"/></p>
