@@ -35,3 +35,5 @@ This is the place where I opensource stuff and break things :rofl:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamanna18&show_icons=true&locale=en" alt="tamanna18" /></p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanna18&" alt="tamanna18" /></p>
