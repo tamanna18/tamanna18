@@ -41,8 +41,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 </br>
 
-<h3 align="left">Portfolio:</h3>
-<img src="" height="30" width="40"/>(https://tamanna.carrd.co/) 
+
 
 
 </br>
