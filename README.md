@@ -49,8 +49,11 @@ This is the place where I opensource stuff and break things :rofl:
 </br>
 
 </br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna18" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamanna18&show_icons=true&locale=en&layout=compact" alt="tamanna18" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamanna18&show_icons=true&locale=en" alt="tamanna18" /></p>
 
