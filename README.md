@@ -15,7 +15,6 @@ This is the place where I opensource stuff and break things :rofl:
  
 
   <a href="mailto:tam.tamanna18@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="@tam.tamanna18" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/tamanna-724345189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamanna-724345189/" height="30" width="40" /></a>
   <a href="https://medium.com/@tam.tamanna18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tam.tamanna18" height="30" width="40" /></a>
  <a href="https://twitter.com/tamtamanna18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamtamanna18" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/tamanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tamanna" height="30" width="40" /></a>
@@ -25,8 +24,8 @@ This is the place where I opensource stuff and break things :rofl:
  <a href="https://www.codechef.com/users/tamtamanna18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tamtamanna18" height="30" width="40" /></a>
  <a href="https://www.leetcode.com/tamanna18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tamanna18" height="30" width="40" /></a>
  
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="30" width="40"/>](https://www.instagram.com/itsmetam1/) 
-
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/tamanna-724345189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamanna-724345189/" height="30" width="40" /></a>
+ 
 </p>
 <br/>
 
