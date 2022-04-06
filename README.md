@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something cool :wink:
 - 💬 I'm open to opportunities in the field of Data Science and Engineering, AI, Machine Learning, NLP, Deep Learning and Computer Vision
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I :heart: :dog:s
+- ⚡ Fun fact: I :heart: :dog:s and ☕
 - 📫 How to reach me: 
 
 <p align="center">
