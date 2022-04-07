@@ -46,6 +46,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 </br>
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![Tamanna's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tamanna18&hide_border=true&)
+
+
 </br>
 <p align="center"><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna18" />
@@ -58,6 +63,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanna18&" alt="tamanna18" /></p>
+
+
 
 
 
