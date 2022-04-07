@@ -47,8 +47,10 @@ This is the place where I opensource stuff and break things :rofl:
 </br>
 
 <!--   GitHub stats graph -->
+
+
 ### 📈 GitHub Activity Graph:
-![Tamanna's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tamanna18&hide_border=true&)
+![Tamanna's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tamanna18&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
 
 
 </br>
