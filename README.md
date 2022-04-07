@@ -46,11 +46,9 @@ This is the place where I opensource stuff and break things :rofl:
 
 </br>
 
-<!--   GitHub stats graph -->
 
 
-### 📈 GitHub Activity Graph:
-![Tamanna's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tamanna18&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+
 
 
 </br>
@@ -65,6 +63,10 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanna18&" alt="tamanna18" /></p>
+
+
+
+
 
 
 Profile Visits : [![HitCount](http://hits.dwyl.com/tamanna18/tamanna18.svg)](http://hits.dwyl.com/tamanna18/tamanna18) 
