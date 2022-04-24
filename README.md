@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCC8E4&height=150&section=header&text=Hi 👋, I'm Tamanna&fontSize=30&fontColor=791148&animation=twinkling&fontAlignY=30"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCC8E4&height=150&section=header&text=Hi 👋, I'm Tamanna&fontSize=30&fontColor=791148&animation=twinkling&fontAlignY=30"> 
 
-<h3 align="center">"Data that is loved tends to survive"</h3>
+<h3 align="center">"Data that is loved tends to survive" <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
 
 This is the place where I opensource stuff and break things :rofl:
 
