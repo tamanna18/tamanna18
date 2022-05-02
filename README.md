@@ -61,13 +61,19 @@ This is the place where I opensource stuff and break things :rofl:
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanna18&" alt="tamanna18" /></p>
 
 
+
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tamanna18}/count.svg" /></p> 
 <br></div>
 
 
+![Snake animation](https://github.com/tamanna18/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 Profile Visits : [![HitCount](http://hits.dwyl.com/tamanna18/tamanna18.svg)](http://hits.dwyl.com/tamanna18/tamanna18) 
+
 
 
 
