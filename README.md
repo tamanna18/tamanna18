@@ -69,7 +69,13 @@ This is the place where I opensource stuff and break things :rofl:
 <br></div>
 
 
-![](https://github.com/tamanna18/tamanna18-2021.stl)
+
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+
+![](https://github.com/tamanna18/tamanna18/blob/main/tamanna18-2021.stl)
+![3D](https://github.com/tamanna18/tamanna18/blob/main/tamanna18-2021.stl)
 
 ![Snake animation](https://github.com/tamanna18/tamanna18/raw/output/github-contribution-grid-snake.svg)
 
