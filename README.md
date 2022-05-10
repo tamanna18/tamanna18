@@ -51,8 +51,6 @@ This is the place where I opensource stuff and break things...
 
 </br>
 
-
-
 </br>
 <p align="center"><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna18" />
@@ -63,9 +61,7 @@ This is the place where I opensource stuff and break things...
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamanna18&show_icons=true&locale=en" alt="tamanna18" /></p>
 
 
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanna18&" alt="tamanna18" /></p>
-
 
 
 
@@ -75,7 +71,7 @@ This is the place where I opensource stuff and break things...
 <br></div>
 
 
-
+<h2> 3D profile View </h2>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
