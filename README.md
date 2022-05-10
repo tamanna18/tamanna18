@@ -11,9 +11,10 @@ This is the place where I opensource stuff and break things...
 
 - 🔭 I’m currently working on something cool :wink:
 - 💬 I'm open to opportunities in the field of Data Science and Engineering, AI, Machine Learning, NLP, Deep Learning and Computer Vision
-- 😄 Pronouns: She/her
+- 😄 Pronouns: She/her :girl:
 - ⚡ Fun fact: I :heart: :dog:s and ☕
-- 📫 How to reach me: 
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tamanna-724345189/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamanna-724345189/" alt="Tamanna"/></a>
