@@ -42,20 +42,7 @@ This is the place where I opensource stuff and break things...
 </div>
  
 
-<div align="left">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamanna18&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamanna18&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tamanna18&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tamanna18&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tamanna18&theme=default&utcOffset=8)
- 
-</div>
- 
- 
- 
 
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanna18&" alt="tamanna18" /></p>
 
