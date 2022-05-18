@@ -43,7 +43,11 @@ This is the place where I opensource stuff and break things...
 
 
 
-
+<div align="left">
+ 
+![3D Snake animation](https://github.com/tamanna18/tamanna18/blob/main/github-user-contribution.svg)
+</div>
+ 
 
 <div align="left">
  
@@ -65,7 +69,6 @@ This is the place where I opensource stuff and break things...
 
 <div align="left">
  
-
  
 ![](./profile-3d-contrib/profile-gitblock.svg)
  
@@ -74,11 +77,12 @@ This is the place where I opensource stuff and break things...
 --------------------------------------------------------------------------------------------------------------
 
 
-![](https://github.com/tamanna18/tamanna18/blob/main/tamanna18-2021.stl)
 
-![3D](https://github.com/tamanna18/tamanna18/blob/main/tamanna18-2021.stl)
 
-![Snake animation](https://github.com/tamanna18/tamanna18/raw/output/github-contribution-grid-snake.svg)
+
+
+
+
 
 
 Profile Visits : [![HitCount](http://hits.dwyl.com/tamanna18/tamanna18.svg)](http://hits.dwyl.com/tamanna18/tamanna18) 
