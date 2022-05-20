@@ -44,7 +44,7 @@ This is the place where I opensource stuff and break things...
 
 
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanna18&" alt="tamanna18" /></p>
+<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanna18&" alt="tamanna18" /></p>
 
 
 <div align="left">
