@@ -12,6 +12,7 @@ This is the place where I opensource stuff and break things...
 - 💬 I'm open to opportunities in the field of Data Science and Engineering, AI, Machine Learning, NLP, Deep Learning and Computer Vision
 - 😄 Pronouns: She/her :girl:
 - ⚡ Fun fact: I :heart: :dog:s and ☕
+- You can support my work by [buying me a coffe] ☕, on [sponsoring me on GitHub] !!
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
