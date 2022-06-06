@@ -4,8 +4,8 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 This is the place where I opensource stuff and break things...
 
 - 🔭 I’m currently working on something cool :wink:
@@ -22,7 +22,6 @@ This is the place where I opensource stuff and break things...
 <a href="https://twitter.com/tamtamanna18" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/tamtamanna18" alt="tamtamanna18"/></a>
 <a href="https://github.com/tamanna18?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/tamanna18/tamanna18" alt="tamanna18"/></a>
 <a href="https://medium.com/@tam.tamanna18" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@tam.tamanna18" alt="tam.tamanna18"/></a>
-
 </p>
  
 
