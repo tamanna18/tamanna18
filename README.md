@@ -18,7 +18,7 @@ This is the place where I opensource stuff and break things...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   
- </br>
+</br>
 
 <h2> Connect with me </h2>
 
@@ -33,7 +33,7 @@ This is the place where I opensource stuff and break things...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   
- </br>
+</br>
 
 ## Tech Stack
 
@@ -80,7 +80,7 @@ This is the place where I opensource stuff and break things...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   
- </br>
+</br>
 </br>
 
 
@@ -93,6 +93,7 @@ This is the place where I opensource stuff and break things...
 
 
 <a><h2>Stats</h2></a>
+
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=tamanna18"/>
@@ -100,15 +101,12 @@ This is the place where I opensource stuff and break things...
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanna18" alt="tamanna18"/>
     </a>
-  </div>
-  </br>
+</div>
 
+</br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  
- </br>
-
+</br>
 
 
 
@@ -127,8 +125,6 @@ This is the place where I opensource stuff and break things...
 
 
 
-
-
 ![](https://count.getloli.com/get/@tamanna18.github.readme)
 </br>
 
@@ -136,5 +132,3 @@ This is the place where I opensource stuff and break things...
 
 
 Profile Visits : [![HitCount](http://hits.dwyl.com/tamanna18/tamanna18.svg)](http://hits.dwyl.com/tamanna18/tamanna18) 
-
-
