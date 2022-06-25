@@ -86,6 +86,7 @@ This is the place where I opensource stuff and break things...
 <div align="center">
  
 ![3D Snake animation](https://github.com/tamanna18/tamanna18/blob/main/github-user-contribution.svg)
+  
 </div>
  
 
