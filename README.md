@@ -102,6 +102,10 @@ This is the place where I opensource stuff and break things...
     </a>
 </div>
 
+
+<!--   GitHub stats graph -->
+![Tamanna's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tamanna18&hide_border=true&theme=github-light)
+
 </br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
